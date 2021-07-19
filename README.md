@@ -1,12 +1,9 @@
 # Python_Mini_Project_LTTS 
 L&T Technology Services Mini-Project (STEPIN_2021)
-# STUDENT MANAGEMENT SYSTEM
-It contains an admin side from where admin can easily manage student records.
-- In the add data section , admin has to enter details like Student name , roll number , branch , phone number ,Father's name and address.
-- On clicking view all students , the student data will be displayed.
-- student information can be deleted or updated.
+# MULTIPLAYER TICTACTOE GAME
+The Multiplayer TICTACTOE game starts with a toss round to select the x or o side. Then, the player can start which leads to a GUI board. First, the player has to click on any box to start the game. It contains the Minimax algorithm; which is a decision rule when playing for a two-player game. A simple 2D GUI is provided for easy gameplay. The gameplay design is so simple that users won’t find it difficult to use and understand.
 ## steps to run the project
 - Clone the github repository.
-- If using an IDE run the student_manage.py file to run the project.
-- Go inside the project folder, open cmd then type student_manage.py and enter 
-- You can try all the functions implemented simply by providing the required details.
+- If using an IDE run the tic_tac_toe.py file to run the project.
+- Go inside the project folder, open cmd then type tic_tac_toe.py and enter 
+
